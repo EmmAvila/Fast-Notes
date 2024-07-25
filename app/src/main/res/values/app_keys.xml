@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <string name="firebase_api_key" translatable="false">AIzaSyBqYxoO4T23eyUUMY2pd_o-DDk2Vaa2h2</string>-->
+    <string name="firebase_api_key" translatable="false"></string>
+</resources>

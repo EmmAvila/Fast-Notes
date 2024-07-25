@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffb59f</color>
+    <color name="primary_variant">#ffb63a</color>
+    <color name="on_primary">#5f1600</color>
+    <color name="secondary">#e7bdb2</color>
+    <color name="secondary_variant">#cf654d</color>
+    <color name="on_secondary">#442a22</color>
+    <color name="primary_container">#832707</color>
+    <color name="on_primary_container">#ffdbd1</color>
+    <color name="background">#201a18</color>
+    <color name="on_background">#ede0dc</color>
+</resources>

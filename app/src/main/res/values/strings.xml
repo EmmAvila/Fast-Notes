@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fast Notes</string>
+    <string name="user_input_hint">Usuario</string>
+    <string name="pass_input_hint">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="without_account"><u>Registrar nueva cuenta</u></string>
+    <string name="have_account"><u>Ya tengo cuenta</u></string>
+    <string name="register_button">Registrar</string>
+    <string name="ups">Ups!</string>
+    <string name="accept">Aceptar</string>
+    <string name="successfulRegistration">Registro excitoso!!\nPuedes iniciar sesion.</string>
+    <string name="empty" />
+    <string name="login_error">No pudimos inciar sesión. Inténtalo de nuevo o registrate si no tienes cuenta.</string>
+    <string name="fab_new_note">nueva nota</string>
+    <string name="main_activity_title">Todas las notas</string>
+    <string name="no_notes">Aún no tienes notas para mostrar</string>
+    <string name="unsubscribe_user"><u>Eliminar mi cuenta</u></string>
+</resources>

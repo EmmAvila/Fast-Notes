@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131824428599",
+    "firebase_url": "https://fastnotes-6575a-default-rtdb.firebaseio.com",
+    "project_id": "fastnotes-6575a",
+    "storage_bucket": "fastnotes-6575a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131824428599:android:1ed02f964020b506bc41b2",
+        "android_client_info": {
+          "package_name": "com.emmavila.fastnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131824428599-hcs6lmio6if4hdmkm2njdq30t8drg0tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOAjnHYUxVGQrAU2J_0xNQxpK_9Uq8hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131824428599-hcs6lmio6if4hdmkm2njdq30t8drg0tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

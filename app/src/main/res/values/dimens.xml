@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    spaces-->
+    <dimen name="min_space">4dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="default_space">16dp</dimen>
+    <dimen name="large_space">24dp</dimen>
+
+    <!--    sizes-->
+    <dimen name="small_size">30dp</dimen>
+    <dimen name="default_size">45dp</dimen>
+    <dimen name="large_size">56dp</dimen>
+    <dimen name="extra_large_space">80dp</dimen>
+    
+
+    <!--    text -->
+    <dimen name="paragraph_text">12sp</dimen>
+    <dimen name="sub_title_text">14sp</dimen>
+    <dimen name="title_text">18sp</dimen>
+    <dimen name="activity_title_text">26sp</dimen>
+</resources>

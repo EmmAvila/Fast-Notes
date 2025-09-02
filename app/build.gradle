@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace 'com.emmavila.fastnotes'
-    compileSdk 33
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.emmavila.fastnotes"
         minSdk 23
-        targetSdk 33
-        versionCode 6
-        versionName "1.0"
+        targetSdk 35
+        versionCode 8
+        versionName "1.02"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         Properties properties = new Properties()
